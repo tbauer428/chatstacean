@@ -6,5 +6,8 @@ This repository holds the README and information for the two pieces of *chatstac
 
 ## chatstacean-client
 
+https://github.com/tbauer428/chatstacean-client
 
 ## chatstacean-server
+
+https://github.com/tbauer428/chatstacean-server
